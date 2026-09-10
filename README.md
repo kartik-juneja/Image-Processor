@@ -25,6 +25,68 @@ tools/
 
 ---
 
+## ⚡ Quick Start & Running Instructions
+
+### Prerequisites
+* [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) installed on your system.
+
+### Step 1: (Optional) Generate Sample Image Dataset
+You can use the built-in `DatasetGenerator` tool to generate sample image files (valid images, corrupted files, and duplicates) inside `./ImageProcessor/data/images/`:
+
+```bash
+dotnet run --project ImageProcessor/tools/DatasetGenerator/DatasetGenerator.csproj -- 50
+```
+*(Replace `50` with the number of test images you wish to generate).*
+
+---
+
+### Step 2: Start Processing Images
+To process images in the input directory with parallel worker threads:
+
+```bash
+# Run with default worker count (system CPU logical core count)
+dotnet run --project ImageProcessor/src/ImageProcessor.Cli/ImageProcessor.Cli.csproj -- process
+
+# Run with custom worker count (e.g. 4 workers)
+dotnet run --project ImageProcessor/src/ImageProcessor.Cli/ImageProcessor.Cli.csproj -- process --workers 4
+```
+
+---
+
+### Step 3: Query & Manage Results
+
+```bash
+# Check current or last job status and processing metrics
+dotnet run --project ImageProcessor/src/ImageProcessor.Cli/ImageProcessor.Cli.csproj -- status
+
+# List processed images (paginated)
+dotnet run --project ImageProcessor/src/ImageProcessor.Cli/ImageProcessor.Cli.csproj -- list --page 1 --size 10
+
+# Search processed images by file name or format
+dotnet run --project ImageProcessor/src/ImageProcessor.Cli/ImageProcessor.Cli.csproj -- search --name sample --format PNG
+
+# View detailed info for a specific image by ID (includes duplicate detection)
+dotnet run --project ImageProcessor/src/ImageProcessor.Cli/ImageProcessor.Cli.csproj -- info --id 1
+
+# View thumbnail path for an image ID
+dotnet run --project ImageProcessor/src/ImageProcessor.Cli/ImageProcessor.Cli.csproj -- thumbnail --id 1
+
+# Send cancellation signal to a running job
+dotnet run --project ImageProcessor/src/ImageProcessor.Cli/ImageProcessor.Cli.csproj -- cancel
+```
+
+---
+
+### Step 4: Run Automated Tests
+
+Execute the full xUnit test suite:
+
+```bash
+dotnet test ImageProcessor/tests/ImageProcessor.Tests/ImageProcessor.Tests.csproj
+```
+
+---
+
 ## ⚡ Concurrency & Pipeline Architecture
 
 Processing thousands of large image files requires controlled concurrency to prevent CPU exhaustion and out-of-memory errors:
