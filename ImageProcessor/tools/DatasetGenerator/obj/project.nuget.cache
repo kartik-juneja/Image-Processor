@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "rI9VTGmZQIo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\tools\\DatasetGenerator\\DatasetGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iotasol11\\.nuget\\packages\\sixlabors.imagesharp\\3.1.5\\sixlabors.imagesharp.3.1.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'SixLabors.ImageSharp' 3.1.5 has a known high severity vulnerability, https://github.com/advisories/GHSA-2cmq-823j-5qj8",
+      "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\tools\\DatasetGenerator\\DatasetGenerator.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\tools\\DatasetGenerator\\DatasetGenerator.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'SixLabors.ImageSharp' 3.1.5 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-rxmq-m78w-7wmc",
+      "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\tools\\DatasetGenerator\\DatasetGenerator.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\tools\\DatasetGenerator\\DatasetGenerator.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

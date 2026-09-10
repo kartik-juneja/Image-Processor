@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CF6CF1-615D-41B9-B9EF-A8F26A7C0588}|src\\ImageProcessor.Processing\\ImageProcessor.Processing.csproj|c:\\users\\iotasol11\\desktop\\iotasol\\project\\imageprocessing\\imageprocessor\\src\\imageprocessor.processing\\pipeline\\imageworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CF6CF1-615D-41B9-B9EF-A8F26A7C0588}|src\\ImageProcessor.Processing\\ImageProcessor.Processing.csproj|solutionrelative:src\\imageprocessor.processing\\pipeline\\imageworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CF6CF1-615D-41B9-B9EF-A8F26A7C0588}|src\\ImageProcessor.Processing\\ImageProcessor.Processing.csproj|c:\\users\\iotasol11\\desktop\\iotasol\\project\\imageprocessing\\imageprocessor\\src\\imageprocessor.processing\\pipeline\\filediscoveryproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CF6CF1-615D-41B9-B9EF-A8F26A7C0588}|src\\ImageProcessor.Processing\\ImageProcessor.Processing.csproj|solutionrelative:src\\imageprocessor.processing\\pipeline\\filediscoveryproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CF6CF1-615D-41B9-B9EF-A8F26A7C0588}|src\\ImageProcessor.Processing\\ImageProcessor.Processing.csproj|c:\\users\\iotasol11\\desktop\\iotasol\\project\\imageprocessing\\imageprocessor\\src\\imageprocessor.processing\\pipeline\\boundedprocessingpipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CF6CF1-615D-41B9-B9EF-A8F26A7C0588}|src\\ImageProcessor.Processing\\ImageProcessor.Processing.csproj|solutionrelative:src\\imageprocessor.processing\\pipeline\\boundedprocessingpipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA73D70-1CA2-4C37-8B1F-56D7243464E2}|src\\ImageProcessor.Infrastructure\\ImageProcessor.Infrastructure.csproj|c:\\users\\iotasol11\\desktop\\iotasol\\project\\imageprocessing\\imageprocessor\\src\\imageprocessor.infrastructure\\persistence\\sqlitejobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA73D70-1CA2-4C37-8B1F-56D7243464E2}|src\\ImageProcessor.Infrastructure\\ImageProcessor.Infrastructure.csproj|solutionrelative:src\\imageprocessor.infrastructure\\persistence\\sqlitejobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA73D70-1CA2-4C37-8B1F-56D7243464E2}|src\\ImageProcessor.Infrastructure\\ImageProcessor.Infrastructure.csproj|c:\\users\\iotasol11\\desktop\\iotasol\\project\\imageprocessing\\imageprocessor\\src\\imageprocessor.infrastructure\\persistence\\sqliteimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA73D70-1CA2-4C37-8B1F-56D7243464E2}|src\\ImageProcessor.Infrastructure\\ImageProcessor.Infrastructure.csproj|solutionrelative:src\\imageprocessor.infrastructure\\persistence\\sqliteimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA73D70-1CA2-4C37-8B1F-56D7243464E2}|src\\ImageProcessor.Infrastructure\\ImageProcessor.Infrastructure.csproj|c:\\users\\iotasol11\\desktop\\iotasol\\project\\imageprocessing\\imageprocessor\\src\\imageprocessor.infrastructure\\persistence\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA73D70-1CA2-4C37-8B1F-56D7243464E2}|src\\ImageProcessor.Infrastructure\\ImageProcessor.Infrastructure.csproj|solutionrelative:src\\imageprocessor.infrastructure\\persistence\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA31B1A1-DF9E-4A7D-A74D-9A6E9FABDBF2}|src\\ImageProcessor.Cli\\ImageProcessor.Cli.csproj|c:\\users\\iotasol11\\desktop\\iotasol\\project\\imageprocessing\\imageprocessor\\src\\imageprocessor.cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA31B1A1-DF9E-4A7D-A74D-9A6E9FABDBF2}|src\\ImageProcessor.Cli\\ImageProcessor.Cli.csproj|solutionrelative:src\\imageprocessor.cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Processing\\Pipeline\\ImageWorker.cs",
+              "RelativeDocumentMoniker": "src\\ImageProcessor.Processing\\Pipeline\\ImageWorker.cs",
+              "ToolTip": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Processing\\Pipeline\\ImageWorker.cs",
+              "RelativeToolTip": "src\\ImageProcessor.Processing\\Pipeline\\ImageWorker.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T09:23:50.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileDiscoveryProducer.cs",
+              "DocumentMoniker": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Processing\\Pipeline\\FileDiscoveryProducer.cs",
+              "RelativeDocumentMoniker": "src\\ImageProcessor.Processing\\Pipeline\\FileDiscoveryProducer.cs",
+              "ToolTip": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Processing\\Pipeline\\FileDiscoveryProducer.cs",
+              "RelativeToolTip": "src\\ImageProcessor.Processing\\Pipeline\\FileDiscoveryProducer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T09:23:31.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BoundedProcessingPipeline.cs",
+              "DocumentMoniker": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Processing\\Pipeline\\BoundedProcessingPipeline.cs",
+              "RelativeDocumentMoniker": "src\\ImageProcessor.Processing\\Pipeline\\BoundedProcessingPipeline.cs",
+              "ToolTip": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Processing\\Pipeline\\BoundedProcessingPipeline.cs",
+              "RelativeToolTip": "src\\ImageProcessor.Processing\\Pipeline\\BoundedProcessingPipeline.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAmwDwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T09:19:44.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SqliteJobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Infrastructure\\Persistence\\SqliteJobRepository.cs",
+              "RelativeDocumentMoniker": "src\\ImageProcessor.Infrastructure\\Persistence\\SqliteJobRepository.cs",
+              "ToolTip": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Infrastructure\\Persistence\\SqliteJobRepository.cs",
+              "RelativeToolTip": "src\\ImageProcessor.Infrastructure\\Persistence\\SqliteJobRepository.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T09:21:10.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SqliteImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Infrastructure\\Persistence\\SqliteImageRepository.cs",
+              "RelativeDocumentMoniker": "src\\ImageProcessor.Infrastructure\\Persistence\\SqliteImageRepository.cs",
+              "ToolTip": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Infrastructure\\Persistence\\SqliteImageRepository.cs",
+              "RelativeToolTip": "src\\ImageProcessor.Infrastructure\\Persistence\\SqliteImageRepository.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T09:20:56.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Infrastructure\\Persistence\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "src\\ImageProcessor.Infrastructure\\Persistence\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Infrastructure\\Persistence\\DatabaseInitializer.cs",
+              "RelativeToolTip": "src\\ImageProcessor.Infrastructure\\Persistence\\DatabaseInitializer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T09:20:36.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Cli\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ImageProcessor.Cli\\Program.cs",
+              "ToolTip": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Cli\\Program.cs",
+              "RelativeToolTip": "src\\ImageProcessor.Cli\\Program.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAQwIQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T08:54:17.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

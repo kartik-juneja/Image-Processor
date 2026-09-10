@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NpRJ3UaCNRc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Application\\ImageProcessor.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iotasol11\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.12\\microsoft.extensions.dependencyinjection.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\Iotasol11\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.12\\microsoft.extensions.logging.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\Iotasol11\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.12\\system.diagnostics.diagnosticsource.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

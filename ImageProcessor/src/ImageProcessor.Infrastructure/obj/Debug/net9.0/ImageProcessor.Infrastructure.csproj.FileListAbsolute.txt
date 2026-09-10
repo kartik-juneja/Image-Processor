@@ -1,0 +1,17 @@
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Infrastructure\bin\Debug\net9.0\ImageProcessor.Infrastructure.deps.json
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Infrastructure\bin\Debug\net9.0\ImageProcessor.Infrastructure.dll
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Infrastructure\bin\Debug\net9.0\ImageProcessor.Infrastructure.pdb
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Infrastructure\bin\Debug\net9.0\ImageProcessor.Application.dll
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Infrastructure\bin\Debug\net9.0\ImageProcessor.Domain.dll
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Infrastructure\bin\Debug\net9.0\ImageProcessor.Domain.pdb
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Infrastructure\bin\Debug\net9.0\ImageProcessor.Application.pdb
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Infrastructure\obj\Debug\net9.0\ImageProcessor.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Infrastructure\obj\Debug\net9.0\ImageProcessor.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Infrastructure\obj\Debug\net9.0\ImageProcessor.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Infrastructure\obj\Debug\net9.0\ImageProcessor.Infrastructure.AssemblyInfo.cs
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Infrastructure\obj\Debug\net9.0\ImageProcessor.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Infrastructure\obj\Debug\net9.0\ImagePro.C9654A08.Up2Date
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Infrastructure\obj\Debug\net9.0\ImageProcessor.Infrastructure.dll
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Infrastructure\obj\Debug\net9.0\refint\ImageProcessor.Infrastructure.dll
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Infrastructure\obj\Debug\net9.0\ImageProcessor.Infrastructure.pdb
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Infrastructure\obj\Debug\net9.0\ref\ImageProcessor.Infrastructure.dll

@@ -1,0 +1,506 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\tests\\ImageProcessor.Tests\\ImageProcessor.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Application\\ImageProcessor.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Application\\ImageProcessor.Application.csproj",
+        "projectName": "ImageProcessor.Application",
+        "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Application\\ImageProcessor.Application.csproj",
+        "packagesPath": "C:\\Users\\Iotasol11\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Iotasol11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Domain\\ImageProcessor.Domain.csproj": {
+                "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Domain\\ImageProcessor.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Cli\\ImageProcessor.Cli.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Cli\\ImageProcessor.Cli.csproj",
+        "projectName": "ImageProcessor.Cli",
+        "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Cli\\ImageProcessor.Cli.csproj",
+        "packagesPath": "C:\\Users\\Iotasol11\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Cli\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Iotasol11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Application\\ImageProcessor.Application.csproj": {
+                "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Application\\ImageProcessor.Application.csproj"
+              },
+              "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Domain\\ImageProcessor.Domain.csproj": {
+                "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Domain\\ImageProcessor.Domain.csproj"
+              },
+              "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Infrastructure\\ImageProcessor.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Infrastructure\\ImageProcessor.Infrastructure.csproj"
+              },
+              "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Processing\\ImageProcessor.Processing.csproj": {
+                "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Processing\\ImageProcessor.Processing.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[10.0.12, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[10.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Domain\\ImageProcessor.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Domain\\ImageProcessor.Domain.csproj",
+        "projectName": "ImageProcessor.Domain",
+        "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Domain\\ImageProcessor.Domain.csproj",
+        "packagesPath": "C:\\Users\\Iotasol11\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Iotasol11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Infrastructure\\ImageProcessor.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Infrastructure\\ImageProcessor.Infrastructure.csproj",
+        "projectName": "ImageProcessor.Infrastructure",
+        "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Infrastructure\\ImageProcessor.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Iotasol11\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Iotasol11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Application\\ImageProcessor.Application.csproj": {
+                "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Application\\ImageProcessor.Application.csproj"
+              },
+              "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Domain\\ImageProcessor.Domain.csproj": {
+                "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Domain\\ImageProcessor.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1902",
+            "NU1903"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[10.0.12, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.12, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Processing\\ImageProcessor.Processing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Processing\\ImageProcessor.Processing.csproj",
+        "projectName": "ImageProcessor.Processing",
+        "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Processing\\ImageProcessor.Processing.csproj",
+        "packagesPath": "C:\\Users\\Iotasol11\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Processing\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Iotasol11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Application\\ImageProcessor.Application.csproj": {
+                "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Application\\ImageProcessor.Application.csproj"
+              },
+              "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Domain\\ImageProcessor.Domain.csproj": {
+                "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Domain\\ImageProcessor.Domain.csproj"
+              },
+              "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Infrastructure\\ImageProcessor.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Infrastructure\\ImageProcessor.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\tests\\ImageProcessor.Tests\\ImageProcessor.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\tests\\ImageProcessor.Tests\\ImageProcessor.Tests.csproj",
+        "projectName": "ImageProcessor.Tests",
+        "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\tests\\ImageProcessor.Tests\\ImageProcessor.Tests.csproj",
+        "packagesPath": "C:\\Users\\Iotasol11\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\tests\\ImageProcessor.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Iotasol11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Application\\ImageProcessor.Application.csproj": {
+                "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Application\\ImageProcessor.Application.csproj"
+              },
+              "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Cli\\ImageProcessor.Cli.csproj": {
+                "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Cli\\ImageProcessor.Cli.csproj"
+              },
+              "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Domain\\ImageProcessor.Domain.csproj": {
+                "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Domain\\ImageProcessor.Domain.csproj"
+              },
+              "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Infrastructure\\ImageProcessor.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Infrastructure\\ImageProcessor.Infrastructure.csproj"
+              },
+              "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Processing\\ImageProcessor.Processing.csproj": {
+                "projectPath": "C:\\Users\\Iotasol11\\Desktop\\Iotasol\\Project\\ImageProcessing\\ImageProcessor\\src\\ImageProcessor.Processing\\ImageProcessor.Processing.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

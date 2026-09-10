@@ -1,0 +1,17 @@
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\tools\DatasetGenerator\bin\Debug\net9.0\DatasetGenerator.exe
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\tools\DatasetGenerator\bin\Debug\net9.0\DatasetGenerator.deps.json
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\tools\DatasetGenerator\bin\Debug\net9.0\DatasetGenerator.runtimeconfig.json
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\tools\DatasetGenerator\bin\Debug\net9.0\DatasetGenerator.dll
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\tools\DatasetGenerator\bin\Debug\net9.0\DatasetGenerator.pdb
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\tools\DatasetGenerator\bin\Debug\net9.0\SixLabors.ImageSharp.dll
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\tools\DatasetGenerator\obj\Debug\net9.0\DatasetGenerator.csproj.AssemblyReference.cache
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\tools\DatasetGenerator\obj\Debug\net9.0\DatasetGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\tools\DatasetGenerator\obj\Debug\net9.0\DatasetGenerator.AssemblyInfoInputs.cache
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\tools\DatasetGenerator\obj\Debug\net9.0\DatasetGenerator.AssemblyInfo.cs
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\tools\DatasetGenerator\obj\Debug\net9.0\DatasetGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\tools\DatasetGenerator\obj\Debug\net9.0\DatasetG.52667B1A.Up2Date
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\tools\DatasetGenerator\obj\Debug\net9.0\DatasetGenerator.dll
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\tools\DatasetGenerator\obj\Debug\net9.0\refint\DatasetGenerator.dll
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\tools\DatasetGenerator\obj\Debug\net9.0\DatasetGenerator.pdb
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\tools\DatasetGenerator\obj\Debug\net9.0\DatasetGenerator.genruntimeconfig.cache
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\tools\DatasetGenerator\obj\Debug\net9.0\ref\DatasetGenerator.dll

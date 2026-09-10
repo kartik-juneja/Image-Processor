@@ -1,0 +1,11 @@
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Domain\bin\Debug\net9.0\ImageProcessor.Domain.deps.json
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Domain\bin\Debug\net9.0\ImageProcessor.Domain.dll
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Domain\bin\Debug\net9.0\ImageProcessor.Domain.pdb
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Domain\obj\Debug\net9.0\ImageProcessor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Domain\obj\Debug\net9.0\ImageProcessor.Domain.AssemblyInfoInputs.cache
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Domain\obj\Debug\net9.0\ImageProcessor.Domain.AssemblyInfo.cs
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Domain\obj\Debug\net9.0\ImageProcessor.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Domain\obj\Debug\net9.0\ImageProcessor.Domain.dll
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Domain\obj\Debug\net9.0\refint\ImageProcessor.Domain.dll
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Domain\obj\Debug\net9.0\ImageProcessor.Domain.pdb
+C:\Users\Iotasol11\Desktop\Iotasol\Project\ImageProcessing\ImageProcessor\src\ImageProcessor.Domain\obj\Debug\net9.0\ref\ImageProcessor.Domain.dll
