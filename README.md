@@ -161,5 +161,5 @@ To scale the architecture from 5,000 images to **1,000,000+ images**:
 
 1. **Distributed Queue Architecture**: Replace in-memory `System.Threading.Channels` with a distributed message queue like **RabbitMQ**, **Apache Kafka**, or **AWS SQS**.
 2. **Object Storage**: Store original images and thumbnails in S3/MinIO rather than local filesystem paths to avoid inode and OS directory listing limits.
-3. **Database Sharding / PostgreSQL**: Transition from single-file SQLite to a clustered **PostgreSQL** or **CockroachDB** database, indexing SHA-256 hashes with partition keys.
+3. **Database Sharding / PostgreSQL**: Transition from single-file SQLite to a clustered **PostgreSQL**, indexing SHA-256 hashes with partition keys.
 4. **Horizontal Worker Scaling**: Deploy workers as stateless containerized tasks (Docker / K8s / AWS ECS) scaling dynamically based on queue depth.
